@@ -8,7 +8,7 @@ An application to display Imgur gallary images.
 
 ## Technologies
 
-I used Imgur API Version 3, TypeScript, CSS, React.js(Functional Component), Redux, 
+I used Imgur API Version 3, TypeScript, CSS, React.js(Functional Component), Redux
 
 ## Approach
 
